@@ -1,0 +1,10 @@
+nextcord
+cryptography
+pyjwt[crypto]
+websockets
+colorama
+requests
+urllib3
+brotlipy
+hcaptcha_challenger
+remoteauthclient

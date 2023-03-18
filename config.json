@@ -1,0 +1,14 @@
+{
+    "Bot Token": "BOT-TOKEN-HERE",
+    "logs_channel_id": "LOGS-CHANNEL-ID-HERE",
+
+    "Prefix": "*",
+    "Owner ID": 123,
+    "command_name": "start",
+    
+    "give_role": false,
+    "role_name": "ROLE-NAME-HERE",
+
+    "mass_dm": 0,
+    "message": "MESSAGE-HERE"
+}
